@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+.img{
+    float: left; 
+    width: 33.33%;
+    height: auto; 
+    background-color: rgb(70, 53, 182);  
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-style: italic;
+}

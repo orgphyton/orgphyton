@@ -1,0 +1,47 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-decoration: underline;
+    position: absolute;
+    top: 0px;
+}
+
+.relative{
+    position: relative;
+    background-color: beige;
+    width: 500px;
+    height: 100px;
+    border: 1px solid yellowgreen;
+    left: 100px;
+    top: 150px
+}
+
+.absolute{
+    position:absolute;
+    background-color: aquamarine;
+    width: 250px;
+    height: 100px;
+    border: 1px solid yellowgreen;
+    left: 100px;
+    top: 150px
+}
+
+.fixed{
+    position:fixed;
+    background-color: magenta;
+    left: 0px;
+    top: 0px;
+}
+
+img{
+    position: fixed;
+    max-width: 50px;
+    max-height: 90px;
+    right: 25px;
+    bottom: 0px;
+}
+
+#abajo{
+    position: absolute;
+    top: 20000px;
+}
